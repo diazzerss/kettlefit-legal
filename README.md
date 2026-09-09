@@ -2,8 +2,12 @@
 
 Юридические документы приложения KettleFit (`com.kettlefit.app`).
 
-Опубликовано через GitHub Pages: политика конфиденциальности лежит в `index.html`
-и открывается по адресу https://diazzerss.github.io/kettlefit-legal/
+Опубликовано через GitHub Pages:
+
+- русская версия — `index.html`, https://diazzerss.github.io/kettlefit-legal/
+- английская версия — `en/index.html`, https://diazzerss.github.io/kettlefit-legal/en/
+
+Страницы ссылаются друг на друга.
 
 Этот адрес указан в Google Play Console → Контент приложения → Политика конфиденциальности.
 
